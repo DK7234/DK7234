@@ -1,4 +1,4 @@
-👋 Hello, I'm David Khoury
+## 👋 Hello, I'm David Khoury
 
 🎓 Computer Engineering Student specializing in Systems & Network Engineering at Antonine University
 
@@ -13,7 +13,7 @@ I enjoy building secure, scalable, and high-performance software solutions while
 
 --------------------------------
 
-💼 Current
+## 💼 Current
 
 🔭 Full Stack Developer Intern @ Steptomedia (July 2026 – Present)
 
@@ -21,7 +21,7 @@ I enjoy building secure, scalable, and high-performance software solutions while
 
 --------------------------------
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 💻 Programming
 Python • JavaScript • TypeScript • Java • C++ • SQL
@@ -40,7 +40,7 @@ Cisco • TCP/IP • Routing & Switching • Linux
 
 --------------------------------
 
-🏆 Certifications
+## 🏆 Certifications
 
 🏆 Cisco CCNA (All Three Levels)
 
