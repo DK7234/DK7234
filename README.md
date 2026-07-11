@@ -76,7 +76,7 @@ Cisco • TCP/IP • Routing & Switching • Linux
 
 --------------------------------
 
-📫 Contact
+## 📫 Contact
 
 🌐 **Portfolio:** [david-khoury.vercel.app](https://david-khoury.vercel.app)
 
